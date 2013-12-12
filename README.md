@@ -18,3 +18,6 @@ Right side Player uses arrow keys up and down to control paddle.
 
 
 To know more about pong go to this link    http://en.wikipedia.org/wiki/Pong 
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aman400/pong/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
